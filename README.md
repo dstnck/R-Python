@@ -1,5 +1,4 @@
 # R-Python
-# Capstone_Projects
 * 👋 Hi, I’m @dstnck
 * 👀 You are in my: R-Python repository
 * 🌱 I’m currently: Adding key functions & Notes
